@@ -20,4 +20,5 @@
 
 ## 6_Data_Structure2_3HEAP
 * [heap_previous.cc] (https://gist.github.com/brianrobo/dc0926422cdeab7d701d0ea88cd7ca6f)
+* [heap basic] (https://gist.github.com/brianrobo/44b07d5152fbc929d9dc18c0b73c3895)
 
